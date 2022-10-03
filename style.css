@@ -1,0 +1,34 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.table1{
+    margin-left: 40px;
+    padding: 20px;
+    border-collapse:collapse ;
+}
+.Heading{
+    margin-left: 40px;
+    padding: 20px;
+}
+.col1{
+    padding: 10px;
+    font-size: 20px;
+}
+.btn{
+    padding: 3px 10px;
+
+}
+.Green{
+    background-color: lightgreen;
+    border: 2px solid black;
+}
+.pink{
+    background-color: lightcoral;
+    border: 2px solid black;
+}
+.sky{
+    background-color: lightskyblue;
+    border: 2px solid black;
+}
